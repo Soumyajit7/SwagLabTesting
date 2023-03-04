@@ -2,6 +2,10 @@
 
 SwagLabTesting is an automated testing project for the Swag Labs e-commerce website. It is written in Java and uses Selenium WebDriver and TestNG for testing. The project aims to test the functionality of the Swag Labs website by automating the testing process.
 
+- [Click here to watch Demonstration Video](https://youtu.be/x2DzI_NE9p0)
+
+- [Click here to see the Test Report](https://soumyajit7.github.io/SwagLabTesting/SwagLabTestReport.html)
+
 ## Test Resources
 
 The following resources are used for testing the Swag Labs website:
