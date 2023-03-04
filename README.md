@@ -90,7 +90,8 @@ The test data is stored in `src/test/resources/testdata/swagLabTestData.xlsx`. I
 ### Test Report
 
 The test report is generated using Extent Reports and can be found in the `src/test/resources/reports/SwagLabTestReport.html` directory. It provides a detailed overview of the test results, including a summary of passed, failed, and skipped tests, as well as logs and screenshots for each test.
-[Report](./src/test/resources/repots/SwagLabTestReport.html)
+
+- [Click here to see the Report](https://soumyajit7.github.io/SwagLabTesting/SwagLabTestReport.html)
 
 ## Built With
 
@@ -107,8 +108,3 @@ The test report is generated using Extent Reports and can be found in the `src/t
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-
-![]('./src/test/resources/repots/SwagLabTestReport.html')
-
-htmltools::includeHTML("./src/test/resources/repots/SwagLabTestReport.html")
